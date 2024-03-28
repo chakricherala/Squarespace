@@ -37,7 +37,7 @@ sq.from("h3",{
 })
 
 sq.to("h3",{
-    y: 20,
+    y: 10,
     duration: 1,
     repeat: -1,
     yoyo:true
